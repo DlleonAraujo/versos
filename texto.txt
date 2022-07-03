@@ -1,0 +1,115 @@
+Tipos de verso
+Os versos receberão nomes específicos dependendo da quantidade de sílabas poéticas que possuírem. Veja o exemplo a seguir, em que o poeta brincou com o número de sílabas, fazendo um crescente verso a verso:
+
+Sobre a ambição
+
+ Só                
+
+de pó
+
+Deus o fez.
+
+Mas ele, em vez
+
+de se conformar
+
+quis ser sol, e ser mar,
+
+E ser céu… Ser tudo, enfim!
+
+Mas nada pôde! E foi assim
+
+que se pôs a chorar de furor…
+
+Mas – ah! – foi sobre sua própria dor
+
+que as lágrimas tristes rolaram. E o pó,
+
+molhado, ficou sendo lodo – e lodo só
+
+(Guilherme de Almeida)
+
+Ao realizarmos a escansão, percebemos que o primeiro verso tem apenas uma sílaba poética, o segundo tem duas, o terceiro tem três e assim sucessivamente. Veja o poema metrificado:
+
+/ Só / - 1 sílaba poética
+
+/ de / pó / - 2 sílabas poéticas
+
+/ Deus / o / fez / - 3 sílabas poéticas
+
+/ Mas / e / le, em / vez / - 4 sílabas poéticas
+
+/ de / se / con / for / mar / - 5 sílabas poéticas
+
+/ quis / ser / sol, / e / ser / mar, / - 6 sílabas poéticas
+
+/ E / ser / céu / ... Ser / tu / do, en / fim! / - 7 sílabas poéticas
+
+/ Mas / na / da / pô /de! E / foi / a / ssim / - 8 sílabas poéticas
+
+/ que / se / pôs / a / cho / rar / de / fu / ror... / - 9 sílabas poéticas
+
+/ Mas / - ah! / - foi / so / bre / sua / pró / pria / dor – 10 sílabas poéticas
+
+/ que / as / lá / gri / mas / tris / tes / ro / la / ram. / E o / pó, / - 11 sílabas poéticas
+
+/ mo / lha / do, / fi / cou / sen / do / lo /do – e / lo / do / só / - 12 sílabas poéticas 
+
+
+Redondilha menor (5 sílabas poéticas)
+As redondilhas, também chamadas de “medida velha”, eram muito utilizadas nas cantigas do trovadorismo, sendo também utilizadas em versos até hoje. Veja um exemplo de trova de Camões com cinco sílabas poéticas:
+
+E / les / ver / des / são, /
+
+e / têm / por / u / san / ça
+
+na / cor, / es / pe / ran / ça
+
+e / nas / o / bras, / não. /
+
+Vo / ssa / con / di / ção /
+
+não / é / d'o / lhos / ver / des,
+
+por / que /  me / não / ve / des.
+
+[...]
+
+(“Eles verdes são”, Luís Vaz de Camões)
+
+Redondilha maior (7 sílabas poéticas)
+A preferida das cantigas populares e de roda, também bastante utilizada pelos trovadores medievais, a redondilha maior é uma medida que facilita a memorização dos versos. Veja um exemplo de um poema também famoso do cânone literário brasileiro:
+
+Mi / nha / te / rra / tem / pal / mei / ras
+
+On / de / can / ta o / sa / bi / á
+
+As / a / ves / que a / qui / gor / jei / am
+
+Não / gor / jei / am / co / mo / lá
+
+[...]
+
+(“Canção do Exílio”, Gonçalves Dias)
+
+Decassílabo ou heroico (10 sílabas poéticas)
+Medida popularizada por Sá de Miranda quando levou a Portugal a forma do soneto, depois popularizada e aprimorada por Camões, e muito empregada até hoje nesse tipo de poema. É o caso do “Soneto da Fidelidade”, de Vinicius de Moraes.
+
+De / tu / do ao / meu / a / mor / se / rei / a / ten / to
+
+An / tes, / e / com / tal / ze / lo, e / sem / pre, e / tan / to
+
+Que / mes / mo em / fa / ce / do / mai / or / en / can / to
+
+De / le / se en / can / te / mais / meu / pen / sa / men / to
+
+Alexandrino (12 sílabas poéticas)
+Bastante utilizado pelos parnasianos e simbolistas, o verso alexandrino tem origem francesa. Os sonetos alexandrinos seguem um rigoroso esquema de composição, cujas rimas e tônicas devem obedecer a determinadas estruturas preestabelecidas. É tido como forma ideal para exprimir ideias e adjetivos retumbantes, épicos, exaltados. Veja um exemplo:
+
+Bai / lan / do / no ar, / ge / mia / in /quie / to / va /ga/-lu/me:
+
+– “quem / me / de/ra / que / fo/sse a /que/la / lou/ ra  es/tre/la
+
+que  ar/de / no e/ter/no a/zul,/ co/mo u/ma e/ter/na ve/la!”
+
+Mas / a es/tre/la,/ fi/tan/do a / lua, / com / ci/ú/me:
