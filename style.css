@@ -1,0 +1,73 @@
+@charset "utf-8;";
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+:root{
+    --cor01: #D0D3D9;
+    --cor02: #F2CA99;
+    --cor03: #BF947A;
+    --cor04: #F2D8C9;
+    --cor05: #594442;
+    --fonte01:'Arima', cursive;
+    --fonte-princial:'Dancing Script', cursive;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+background-color: var(--cor05);
+text-align: center;
+color: white;
+padding-top: 20px;
+padding-bottom: 10px;
+font-family: var(--fonte01);
+}
+header > h1{
+    padding-bottom: 5px;
+    font-weight: bolder;
+    font-size: 2.5em;
+}
+
+header > p{
+    padding-bottom: 20px;
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+section{
+    
+    background-color: var(--cor02);
+    color: var(--cor05);
+    font-family: var(--fonte-princial);
+    font-size: 1.3em;
+    
+}
+section.h2 {
+    background-image: linear-gradient (to right,black, transparent);
+}
+section.normal{
+background-color: white;
+color: black;
+}
+section.imagem{
+
+}
+section > p{
+    min-width: 280px;
+    ;
+    background-color: #59444215;
+}
+footer{
+    background-color: black;
+   
+    text-align: center;
+}
+footer > p, a {
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
