@@ -38,21 +38,50 @@ header > p{
 
 section{
     
-    background-color: var(--cor02);
+    
     color: var(--cor05);
     font-family: var(--fonte-princial);
     font-size: 1.3em;
     
 }
-section.h2 {
-    background-image: linear-gradient (to right,black, transparent);
+h2 {
+    background-image: linear-gradient(to right, var(--cor01), transparent);
+    border: solid 1px rgba(0, 0, 0, 0.068);
+    color: var(--cor05);
 }
 section.normal{
 background-color: white;
 color: black;
 }
-section.imagem{
+section#normal1{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    background-image: url('../versos/imagens/background002.jpg');
+    background-size: cover;
+    background-position: bottom, right;
+    background-attachment: fixed;
+}
+section#normal2{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    background-image: url('../versos/imagens/background001.jpg');
+    background-size: cover;
+    background-position: bottom, right;
+    background-attachment: fixed;
+}
+section#normal3{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    background-image: url('../versos/imagens/background002.jpg');
+    background-size: cover;
+    background-position: bottom, right;
+    background-attachment: fixed;
+}
 
+
+section.imagem{
+    
+    background-image: linear-gradient(to top, var(--cor02), transparent);
 }
 section > p{
     min-width: 280px;
